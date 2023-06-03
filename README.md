@@ -2,7 +2,7 @@
 This is a simple calculator application using javascript framework react js and vite js\
 
 ## Image
-
+<img width="457" alt="screenshot" src="https://github.com/faman272/calculator-reactjs/assets/116134925/d2d7b5fc-018e-45ed-94bf-51150993076d">
 
 ## Condition
 
